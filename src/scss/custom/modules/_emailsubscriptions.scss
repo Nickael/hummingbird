@@ -4,7 +4,8 @@ $email-input-border-color: $input-border-color !default;
 
 .#{$component-name} {
   padding: 2.5rem 1rem;
-  background-color: var(--bs-gray-100);
+  background-color: #FF4242;
+  //background-color: var(--bs-gray-100);
 
   & &__content {
     max-width: 56.625rem;
@@ -15,6 +16,7 @@ $email-input-border-color: $input-border-color !default;
 
       p {
         margin: 0;
+        color: var(--bs-white);
       }
     }
 
@@ -38,6 +40,7 @@ $email-input-border-color: $input-border-color !default;
   & &__label {
     font-size: 1.25rem;
     line-height: 1.75rem;
-    color: var(--bs-gray-800);
+    color: var(--bs-white);
+    //color: var(--bs-gray-800);
   }
 }
