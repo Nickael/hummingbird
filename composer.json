@@ -1,16 +1,16 @@
 {
-  "name": "prestashop/hummingbird",
-  "description": "Hummingbird theme for develop PrestaShop version",
-  "type": "prestashop-theme",
+  "name": "nickaelr/nudiome",
+  "description": "Nudiome is a theme forked from the main repository",
+  "type": "nudiome-theme",
   "license": "AFL-3.0",
   "authors": [
     {
-      "name": "PrestaShop SA",
-      "email": "contact@prestashop.com"
+      "name": "Nickaelr",
+      "email": "contact@nickaelr.com"
     },
     {
       "name": "PrestaShop Community",
-      "homepage": "https://contributors.prestashop-project.org/"
+      "homepage": "https://nickaelr.com"
     }
   ],
   "minimum-stability": "dev",

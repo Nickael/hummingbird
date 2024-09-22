@@ -1,7 +1,7 @@
 {
-  "name": "prestashop-hummingbird-dev-tools",
-  "version": "0.1.7",
-  "description": "Tools to help while developing the Hummingbird theme",
+  "name": "nudiome",
+  "version": "0.0.0",
+  "description": "This is a fork of the Hummingbird project from Prestashop",
   "engines": {
     "node": ">= 14"
   },
@@ -20,7 +20,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
-  "author": "PrestaShop",
+  "author": "Nickaelr",
   "license": "AFL-3.0",
   "devDependencies": {
     "@storybook/addon-a11y": "^6.4.19",
