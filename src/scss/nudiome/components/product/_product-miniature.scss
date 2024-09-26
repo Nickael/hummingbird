@@ -1,0 +1,8 @@
+$component-name: product-miniature;
+
+.#{$component-name} {
+  & &__price {
+    --bs-primary: #FF4242;
+    color: var(--bs-primary);
+  }
+}
